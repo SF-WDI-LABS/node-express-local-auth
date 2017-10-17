@@ -537,3 +537,4 @@ Passport is a really useful tool because it allows developers to abstract the lo
 
 - How do salts work with hashing?
 - Briefly describe the authentication process using passport in Express.
+- Authentication is hard!
